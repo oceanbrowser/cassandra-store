@@ -9,7 +9,6 @@
     "dependencies": {
         "cassandra-driver": "2.2.1",
         "debug": "2.2.0",
-        "express-session": "1.11.3",
         "underscore": "1.8.3"
     },
     "devDependencies": {
